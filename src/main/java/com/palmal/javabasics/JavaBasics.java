@@ -5,8 +5,6 @@
 
 package com.palmal.javabasics;
 
-import javax.swing.JFrame;
-
 /**
  *
  * @author vk_wh
@@ -23,9 +21,7 @@ public class JavaBasics {
         - 65E0FF blue
         - 2E4047 light blue BG
         */
-        System.out.println("Hello World!");
-        SourseFrame sfForm = new SourseFrame();
-        sfForm.setSize(500, 500);
+        SourceFrame sfForm = new SourceFrame();
         sfForm.setVisible(true);
     }
 }
