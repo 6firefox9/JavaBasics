@@ -5,11 +5,13 @@
 
 package com.palmal.javabasics;
 
+import com.palmal.javabasics.forms.SourceFrame;
+
 /**
  *
  * @author vk_wh
  */
-public class JavaBasics {
+public class Main {
 
     public static void main(String[] args) {
         /*
